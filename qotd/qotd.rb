@@ -16,7 +16,7 @@ helpers do
   end
   
   def quote_div(quote)
-    haml :quote_div, :locals => {:quote => quote}
+    haml :quote_div, :locals => {:quote => quote}, :layout => false
   end
 end
 
@@ -31,8 +31,7 @@ template :quote_div do
 end
 
 get '/' do
-  # @quote = qlib.random(Date.today.jd)
-  @quote = qlib.random
+  @quote = qlib.random(Date.today.jd)
   haml :index
 end
 
@@ -54,9 +53,9 @@ end
 # get '/quote/:id'
 # get '/search/:key/:query'
 # search.haml
-# helper or partial to generate the quote HTML wherever needed
-
+# helper or partial to generate the quote HTML wherever needed (as internal template)
 # Layout
+
 # CSS
 # JSON output
 # Maybe better handling of multiline quotes
