@@ -1,0 +1,5 @@
+%h1 The Quotes You Requested, Sir!
+- @quotes.each do |quote|
+  %div
+    %p= quote[:text]
+    %p.attribution== &mdash;#{quote[:by]}
