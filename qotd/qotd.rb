@@ -60,6 +60,14 @@ end
 # JSON output
 # Maybe better handling of multiline quotes
 
+# Other things to mention:
+# filters
+# halting and passing
+# more complicated route processing
+# environments
+# error handling
+# Rack
+
 # Quotes to feature:
 #   1 absurdum, by Mike Jones
 #  22 still more complicated, by Poul Anderson
