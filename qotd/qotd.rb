@@ -14,6 +14,10 @@ helpers do
   def qlib
     options.qlib
   end
+  
+  def quote_div(quote)
+    haml :quote_div, :locals => {:quote => quote}
+  end
 end
 
 get '/' do
@@ -40,8 +44,8 @@ end
 # get '/quote/:id'
 # get '/search/:key/:query'
 # search.haml
-
 # helper or partial to generate the quote HTML wherever needed
+
 # Layout
 # CSS
 # JSON output
