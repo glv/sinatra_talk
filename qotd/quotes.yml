@@ -1,0 +1,731 @@
+---
+- :text: >
+    Most people use statistics the way a drunkard uses a lamp post, more for 
+    support than illumination. 
+  :by: Mark Twain
+- :text: >
+    It didn't take very much reductio to get right down to absurdum from where 
+    you started. 
+  :by: Mike Jones <jonesmd@crd.ge.com>
+- :text: >
+    Reisner's Rule of Conceptual Inertia: "If you think big enough, you'll never 
+    have to do it." 
+  :by: Quoted by Erik Naggum, <erik@naggum.no> 
+- :text: >
+    Simplicity is the soul of efficiency. 
+  :by: Austin Freeman
+  :source: The Eye of Osiris
+- :text: >
+    ... it is simplicity that is difficult to make. 
+  :by: Bertholdt Brecht 
+- :text: >
+    And there you have several miracles, first among them the wonder of a 
+    three-dimensional volume where black squiggles on white paper create worlds. 
+  :by: Melvin Jules Bukiet
+  :context: on books
+- :text: >
+    When a distinguished and elderly scientist says that something is possible, 
+    he's almost certainly correct; when he says something is impossible, he's very 
+    probably wrong. 
+  :by: Arthur C. Clarke 
+- :text: >
+    The only way of discovering the limits of the possible is to venture a little 
+    way past them into the impossible. 
+  :by: Arthur C. Clarke 
+- :text: >
+    Any sufficiently advanced technology is indistinguishable from magic. 
+  :by: Arthur C. Clarke 
+- :text: >
+    Sufficiently advanced political correctness is indistinguishable from irony. 
+  :by: Erik Naggum <erik@naggum.no> 
+- :text: >
+    There is nothing more ugly than an orthodoxy without understanding or without 
+    compassion. 
+  :by: Francis A. Schaeffer 
+- :text: >
+    Unix was not designed to stop people from doing stupid things, because that 
+    would also stop them from doing clever things. 
+  :by: Doug Gwyn 
+- :text: >
+    Have you never thought as you read that months may lie between any pair of 
+    words? 
+  :by: Gene Wolfe 
+- :text: >
+    No, this trick won't work ... How on earth are you ever going to explain in 
+    terms of chemistry and physics so important a biological phenomenon as first 
+    love? 
+  :by: Albert Einstein 
+- :text: >
+    Work for something because it is good, not just because it stands a chance to 
+    succeed. 
+  :by: Vaclav Havel 
+- :text: >
+    People are always blaming their circumstances for what they are. I don't 
+    believe in circumstances. The people who get on in this world are the people who 
+    get up and look for the circumstances they want, and if they can't find them, 
+    make them. 
+  :by: George Bernard Shaw 
+- :text: >
+    The designer of a new kind of system must participate fully in the 
+    implementation. 
+  :by: Donald E. Knuth 
+- :text: >
+    What is written without effort is in general read without pleasure. 
+  :by: Samuel Johnson 
+- :text: >
+    Truth often suffers more by the heat of its defenders than by the arguments 
+    of its opponents. 
+- :text: >
+    New and stirring things are belittled because if they are not belittled, the 
+    humiliating question arises, "Why then are you not taking part in them?" 
+  :by: H. G. Wells 
+- :text: >
+    A mathematician is a device for turning coffee into theorems. 
+  :by: P. Erdos 
+- :text: >
+    More good code has been written in languages denounced as "bad" than in 
+    languages proclaimed "wonderful"--much more. 
+  :by: Bjarne Stroustrup
+  :source: The Design and Evolution of C++ (1994)
+- :text: >
+    I have yet to see any problem, however complicated, which, when you looked at 
+    it in the right way, did not become still more complicated. 
+  :by: Poul Anderson 
+- :text: |
+    Every artist is a cannibal, every poet is a thief;
+    All kill their inspiration and sing about the grief. 
+  :by: U2 
+- :text: >
+    I want to die peacefully in my sleep like my grandfather. Not screaming in 
+    terror like his passengers. 
+  :by: Sverre Slotte 
+- :text: >
+    I have a firm grip on reality. Now I can strangle it. 
+  :by: Gordon Paynter 
+- :text: >
+    C makes it easy to shoot yourself in the foot. C++ makes it harder, but when 
+    you do, it blows away your whole leg. 
+  :by: Bjarne Stroustrup 
+- :text: >
+    Lesson number one in dealing with the White House: just because they're nice 
+    to you, doesn't mean they can actually help. 
+  :by: Bob Garfield
+- :text: >
+    When David Letterman is on TV each night, what's there left for the ironist 
+    to do? 
+  :by: Donald Fagen 
+- :text: >
+    If I hear the phrase "everything is an object" once more, I think I will 
+    scream. 
+  :by: Michael Stonebraker 
+- :text: >
+    If a book is worth reading at all it is worth reading more than once ... 
+    Suspense drags you on; appreciation causes you to linger. 
+  :by: William Gerhardie 
+- :text: >
+    There are two ways of constructing a software design. One way is to make it 
+    so simple that there are obviously no deficiencies. And the other way is to make 
+    it so complicated that there are no obvious deficiencies. 
+  :by: C.A.R. Hoare 
+- :text: >
+    ... with proper design, the features come cheaply. This approach is arduous, 
+    but continues to succeed. 
+  :by: Dennis Ritchie 
+- :text: >
+    Mathematics, rightly viewed, possesses not only truth, but supreme beauty--a 
+    beauty cold and austere ... yet sublimely pure and capable of stern perfection 
+    such as only the greatest art can show. 
+  :by: Bertrand Russell 
+- :text: >
+    Simple things should be simple and complex things should be possible. 
+  :by: Alan Kay 
+- :text: >
+    Premature optimization is the root of all evil in programming. 
+  :by: C.A.R. Hoare 
+- :text: >
+    The problem with using C++ ... is that there's already a strong tendency in 
+    the language to require you to know everything before you can do anything. 
+  :by: Larry Wall 
+- :text: >
+    Whatever you can do or dream you can, begin it. Boldness has genius, power, 
+    and magic in it. 
+  :by: Johann Wolfgang von Goethe 
+- :text: >
+    What no person has a right to is to delude others into the belief that faith 
+    is something of no great significance, or that it is an easy matter, whereas it 
+    is the greatest and most difficult of all things. 
+  :by: Soren Kierkegaard 
+- :text: >
+    Good work is always done in defiance of management. 
+  :by: R. Woodward
+- :text: >
+    The key to performance is elegance, not battalions of special cases. The 
+    terrible temptation to tweak should be resisted unless the payoff is really 
+    noticeable. 
+  :by: Jon Bentley and Doug McIlroy 
+- :text: >
+    I never understood people who don't have bookshelves. 
+  :by: George Plimpton 
+- :text: |
+    "IT JUST TAKES A LITTLE MORE FAITH."
+    "It takes more *practice*," I told him irritably.
+    "FAITH TAKES PRACTICE," said Owen Meany.
+  :by: John Irving 
+- :text: >
+    It should be noted that no ethically-trained software engineer would ever 
+    consent to write a "DestroyBaghdad" procedure. Basic professional ethics would 
+    instead require him to write a "DestroyCity" procedure, to which "Baghdad" 
+    could be given as a parameter. 
+  :by: Nathaniel S. Borenstein 
+- :text: >
+    The lyf so short, the craft so long to lerne. 
+  :by: Geoffrey Chaucer 
+- :text: >
+    It is one of the surest indexes of a mature and developed jurisprudence not 
+    to make a fortress out of the dictionary ... 
+  :by: Learned Hand 
+- :text: >
+    If you've been pounding nails with your forehead for years, it may feel 
+    strange the first time somebody hands you a hammer. But that doesn't mean that 
+    you should strap the hammer to a headband just to give your skull that old 
+    familiar jolt. 
+  :by: Wayne Throop <throopw%sheol.uucp@dg-rtp.dg.com>
+- :text: >
+    The novelist says in words what cannot be said in words. 
+  :by: Ursula K. Le Guin
+  :source: in her 1976 introduction to "The Left Hand of Darkness" (1969)
+- :text: >
+    Any philosophy that can be put in a nutshell belongs there. 
+  :by: Sydney J. Harris 
+- :text: >
+    I can remember when a good politician had to be 75 percent ability and 25 
+    percent actor, but I can well see the day when the reverse could be true. 
+  :by: Harry Truman 
+- :text: >
+    I don't care how many levels of reality you posit; as soon as you posit even 
+    one it's turtles all the way down. 
+  :by: Nova Spivak 
+- :text: >
+    A witty saying proves nothing. 
+  :by: Voltaire 
+- :text: >
+    We act as though comfort and luxury were the chief requirements of life, when 
+    all that we need to make us happy is something to be enthusiastic about. 
+  :by: Albert Einstein 
+- :text: >
+    All men dream: but not equally. Those who dream by night in the dusty 
+    recesses of their minds wake in the day to find that it was vanity: but the 
+    dreamers of the day are dangerous men, for they may act their dream with open 
+    eyes, to make it possible. 
+  :by: T. E. Lawrence
+  :source: in "The Seven Pillars of Wisdom"
+- :text: >
+    Hydrogen is a colorless, odorless gas which, given enough time, turns into 
+    people. 
+  :by: Henry Hiebert 
+- :text: >
+    The trouble with the world is that the stupid are cocksure and the 
+    intelligent are full of doubt. 
+  :by: Bertrand Russell 
+- :text: >
+    Nothing is so strong as gentleness; nothing so gentle as real strength. 
+  :by: St. Francis de Sales 
+- :text: >
+    All bad jazz sounds like "Woody Woodpecker". 
+  :by: Leo Kottke 
+- :text: >
+    Luck is the residue of design. 
+  :by: Branch Rickey 
+- :text: >
+    In case you're not a computer person, I should probably point out that "Real 
+    Soon Now" is a technical term meaning "sometime before the heat-death of the 
+    universe, maybe."
+  :by: Scott Fahlman <sef@cs.cmu.edu> 
+- :text: >
+    Academic politics is the most vicious and bitter form of politics, because 
+    the stakes are so low. 
+  :by: Wallace Sayre 
+- :text: >
+    Men must fumble awhile with error to separate it from truth, I think--as 
+    long as they don't seize the error hungrily because it has a pleasanter taste. 
+  :by: Walter M. Miller, Jr.
+  :source: in "A Canticle for Liebowitz"
+- :text: >
+    The Law of Software Envelopment: "Every program attempts to expand until it 
+    can read mail. Those programs which cannot so expand are replaced by ones which 
+    can." 
+  :by: Jamie Zawinski <jwz@netscape.com> 
+- :text: >
+    ... semiotics is in principle the discipline studying everything which can be 
+    used in order to lie. 
+  :by: Umberto Eco
+  :source: in "A Theory of Semiotics"
+- :text: >
+    As complexity rises, precise statements lose meaning, and meaningful statements 
+    lose precision. 
+  :by: Lotfi Zadeh 
+- :text: >
+    It's hard to read through a book on the principles of magic without glancing 
+    at the cover periodically to make sure it isn't a book on software design. 
+  :by: Bruce Tognazzini 
+- :text: >
+    Saving face, I fear, is to have two of them. 
+  :by: Nicholas Negroponte 
+- :text: >
+    The Very Big Stupid is a thing which breeds by eating The Future. Have you 
+    seen it? It sometimes disguises itself as a good-looking quarterly bottom line, 
+    derived by closing the R&D department. 
+  :by: Frank Zappa 
+- :text: >
+    A charlatan makes obscure what is clear; a thinker makes clear what is 
+    obscure. 
+  :by: Hugh Kingsmill 
+- :text: >
+    All I can say is that this peacock is a horse of another color. 
+  :by: Guy Steele 
+- :text: >
+    Guys are lucky because they get to grow mustaches. I wish I could. It's like 
+    having a little pet for your face. 
+  :by: Anita Wise 
+- :text: >
+    I have learned silence from the talkative, tolerance from the intolerant, and 
+    kindness from the unkind, yet I'm ungrateful to those teachers. 
+  :by: Kahlil Gibran 
+- :text: >
+    Good judgement is the result of experience ... Experience is the result of 
+    bad judgement. 
+  :by: Fred Brooks 
+- :text: >
+    Programs must be written for people to read, and only incidentally for 
+    machines to execute. 
+  :by: Abelson and Sussman 
+- :text: >
+    Conventionality is not morality. Self-righteousness is not religion. To 
+    attack the first is not to assail the last. 
+  :by: Charlotte Bronte 
+- :text: >
+    Feminists can be as sexist as the next guy! 
+  :by: Douglas R. Hofstadter 
+- :text: >
+    The nationalist not only does not disapprove of atrocities committed by his 
+    own side, but he has a remarkable capacity for not even hearing about them. 
+  :by: George Orwell
+  :source: in "Notes on Nationalism", 1945
+- :text: >
+    Knowing how things work is the basis for appreciation, and is thus a source 
+    of civilized delight. 
+  :by: William Safire 
+- :text: >
+    A language that doesn't have everything is actually easier to program in than 
+    some that do. 
+  :by: Dennis Ritchie 
+- :text: >
+    Between the wish and the thing, the world lies waiting. 
+  :by: Cormac McCarthy 
+- :text: >
+    A designer can mull over complicated designs for months. Then suddenly the 
+    simple, elegant, beautiful solution occurs to him. When it happens to you, it 
+    feels as if God is talking! And maybe He is. 
+  :by: Leo Frankowski
+  :source: in "The Cross-Time Engineer"
+- :text: >
+    Beauty in music is too often confused with something that lets the ears lie 
+    back in an easy chair. 
+  :by: Charles Ives 
+- :text: >
+    The question shouldn't be, "Will it happen?" but "Do we want it to happen, 
+    and can we help it happen?" 
+  :by: Peter G. W. Keen 
+- :text: >
+    I should either have been less specific or more correct ... 
+  :by: Andy Armstrong <andy@wonderworks.co.uk> 
+- :text: >
+    Injustice anywhere is a threat to justice everywhere. We are caught in an 
+    inescapable network of mutuality, tied in a single garment of destiny. Whatever 
+    affects one directly, affects all indirectly. 
+  :by: Dr. Martin Luther King, Jr. 
+- :text: >
+    Get your facts first, and then you can distort 'em as much as you please. 
+  :by: Samuel Clemens 
+- :text: >
+    That people do not learn very much from history is the most important of all 
+    the lessons history has to teach. 
+  :by: Aldous Huxley 
+- :text: >
+    Everything you've learned in school as "obvious" becomes less and less 
+    obvious as you begin to study the universe. For example, there are no solids in 
+    the universe. There's not even a suggestion of a solid. There are no absolute 
+    continuums. There are no surfaces. There are no straight lines. 
+  :by: R. Buckminster Fuller 
+- :text: >
+    I would be content if my children grew up to be the kind of people who think 
+    decorating consists mostly of building enough bookshelves. 
+  :by: Anna Quindlen 
+- :text: >
+    Increasingly, people seem to misinterpret complexity as sophistication, which 
+    is baffling--the incomprehensible should cause suspicion rather than 
+    admiration. Possibly this trend results from a mistaken belief that using a 
+    somewhat mysterious device confers an aura of power on the user. 
+  :by: Niklaus Wirth 
+- :text: >
+    Education: The ability to train yourself. 
+  :by: John Browning and Spencer Reiss
+  :source: in "Encyclopedia of the New Economy", "Wired" 6.04
+- :text: >
+    As for a picture, if it isn't worth a thousand words, the hell with it. 
+  :by: Ad Reinhardt 
+- :text: >
+    People buy holes, not drill bits. 
+  :by: Peter Deutsch 
+- :text: >
+    There are two ways to slide easily through life: to believe everything or to 
+    doubt everything. Both ways save us from thinking. 
+  :by: Alfred Korzybski 
+  :source: in "Manhood of Humanity", Institute of General Semantics
+- :text: >
+    ... with the right value system, making good short-term decisions leads to 
+    good long-term results. ... I think that is the purpose of a value system. We 
+    need to figure out the way to live so that when we are in the middle of life we 
+    "do the right thing." When our neighbor comes over to argue with us, we are not 
+    going to start thinking about how this will effect our life ten years from now, 
+    but we react according to the way we were taught, and the way we taught 
+    ourselves. 
+  :by: Ralph Johnson
+  :source_link: http://c2.com/cgi-bin/wiki?ExtremeProgramming
+  :comment: Unlikely as it may seem, this quote came from a discussion of programming practices.
+- :text: >
+    ... your Web browser is Ronald Reagan. 
+  :by: Neal Stephenson
+  :source: in "In the Beginning Was the Command Line"
+  :source_link: http://www.cryptonomicon.com/beginning_print.html
+  :comment: >
+    In its context, this statement is actually the punchline of one of
+    the most insightful descriptions I've ever read of how computers
+    work their magic on strings of numbers. But out of context, it
+    is one of the more bizarrely absurd statements I've ever read.
+- :text: >
+    Starsky and Hutch reruns, dubbed into diverse languages, may turn out, in the 
+    long run, to be a greater force for human rights than the Declaration of 
+    Independence. 
+  :by: Neal Stephenson 
+- :text: >
+    Men are born ignorant, not stupid; they are made stupid by education. 
+  :by: Bertrand Russell 
+- :text: >
+    One of the great skills in using any language is knowing what not to use, 
+    what not to say. ... There's that simplicity thing again. 
+  :by: Ron Jeffries 
+- :text: >
+    There are few things as seemingly untouched by the real world as a child 
+    asleep. 
+  :by: John Irving
+  :source: in "A Widow for One Year", p. 151
+- :text: >
+    Crappy old OSes have value in the basically negative sense that changing to 
+    new ones makes us wish we'd never been born. 
+  :by: Neal Stephenson 
+- :text: >
+    In a society where there is democratic tolerance and freedom under the law, 
+    many kinds of evils will crop up, but give them a little time and they will 
+    usually breed their own cure. 
+  :by: Bourke Cockran
+  :context: to Winston Churchill, November 1895
+- :text: >
+    Now it is a strange thing, but things that are good to have and days that are 
+    good to spend are soon told about, and not much to listen to; while things that 
+    are uncomfortable palpitating, and even gruesome, may make a good tale, and take 
+    a deal of telling anyway. 
+  :by: J. R. R. Tolkien
+  :source: in "The Hobbit", p. 61
+- :text: >
+    If you threw Microsoft into a room with truth, you'd risk a 
+    matter/anti-matter explosion. 
+  :by: Nicholas Petreley 
+- :text: >
+    Forget the messiness of years and days--every work of human artifice has a 
+    proper viewing distance. 
+  :by: Tracy Kidder 
+- :text: >
+    The ideal engineer is a composite ... he is not a scientist, he is not a 
+    mathematician, he is not a sociologist, or a writer; but he may use the 
+    knowledge and techniques of any or all of these disciplines in solving 
+    engineering problems. 
+  :by: N. W. Dougherty 
+- :text: >
+    You can't shake the Devil's hand and say you're only kidding. 
+  :by: They Might Be Giants 
+- :text: >
+    Sometimes, the best applause lies in knowing you have offended a fool. 
+  :by: Anonymous 
+- :text: >
+    When we use a language, we should commit ourselves to knowing it, being able 
+    to read it, and writing it idiomatically. 
+  :by: Ron Jeffries
+  :source_link: http://c2.com/cgi-bin/wiki?ReturnBooleanEvaluations
+  :source: in "Wiki:ReturnBooleanEvaluations"
+- :text: >
+    Learning research tells us that the time lag from experiment to feedback is 
+    critical ... 
+  :by: Kent Beck
+  :source_link: http://c2.com/cgi-bin/wiki?IsExtremeProgrammingWacko
+  :source: in "Wiki:IsExtremeProgrammingWacko"
+- :text: >
+    If we spoke a different language, we would perceive a somewhat different 
+    world. 
+  :by: Wittgenstein 
+- :text: >
+    "The best thing for being sad," replied Merlyn, beginning to puff and blow, 
+    "is to learn something." 
+  :by: T. H. White
+  :source: in "The Once and Future King"
+- :text: >
+    My grandfather once told me that there are two kinds of people: those who 
+    work and those who take the credit. He told me to try to be in the first group; 
+    there was less competition there. 
+  :by: Indira Gandhi 
+- :text: >
+    I think it's tragic that scientific advances have caused many people
+    to imagine that they know it all, and that God is irrelevant or
+    nonexistent.  The fact is that everything we learn reveals more things
+    that we do not understand.
+  :by: Donald E. Knuth
+  :context: on Proverbs 3:16
+- :text: >
+    A rational mind like mine generally wants to nail everything down, to
+    understand concepts fully.  Yet I am glad that true religion is a great
+    mystery, something I can feel but not describe, something I can ponder
+    and learn about, something that will always remain tantalizingly beyond
+    my grasp.
+  :by: Donald E. Knuth
+  :context: on 1 Timothy 3:16
+- :text: >
+    "Perilous to us all are the devices of an art deeper than we possess
+    ourselves."
+  :by: J. R. R. Tolkien
+  :source: LotR II p. 203
+- :text: >
+    "... generous deed should not be checked by cold counsel."
+  :by: J. R. R. Tolkien
+  :source: LotR III p. 32
+- :text: >
+    We don't think of ourselves as being perfectionists, really.  To us it's
+    more about desperately trying to have it sound more or less OK.
+  :by: Donald Fagen
+- :text: >
+    I don't know why any right-thinking person would play anything but a 
+    blues-based style on electric guitar.
+  :by: Walter Becker
+- :text: >
+    You think you know when you can learn, are more sure when 
+    you can write, even more when you can teach, but certain when 
+    you can program.
+  :by: Alan Perlis
+- :text: >
+    The greatest obstacle to discovery is not ignorance, but the illusion
+    of knowledge.
+  :by: Daniel Boorstin
+- :text: >
+    ... it is poor civic hygiene to install technologies that could
+    someday facilitate a police state.
+  :by: Bruce Schneier
+- :text: >
+    Nothing in progression can rest on its original plan.  We may as well
+    think of rocking a grown man in the cradle of an infant.
+  :by: Edmund Burke
+- :text: >
+    ... society is tradition and order and reverence, not a series of
+    cheap bargains between selfish interests.
+  :by: Poul Anderson
+  :source: in "Iron"
+- :text: >
+    No matter how cynical I get, I just can't keep up.
+  :by: Nora Ephron
+- :text: >
+    Inspiration comes from the act of writing.
+  :by: Steven Dunn
+- :text: >
+    Design and programming are human activities; forget that and all is
+    lost.
+  :by: Bjarne Stroustrup
+- :text: >
+    ... as a slow-witted human being I have a very small head and I had
+    better learn to live with it and to respect my limitations and give
+    them full credit, rather than to try to ignore them, for the latter
+    vain effort will be punished by failure.
+  :by: Edsger W. Dijkstra
+- :text: >
+    Out of intense complexities, intense simplicities emerge.
+  :by: Winston Churchill
+- :text: >
+    We're drowning in information and starving for knowledge.
+  :by: Rutherford D. Rogers
+- :text: >
+    That's all there is ... You.  And you and you and you and you and
+    you.  I thought there was something more, something larger, but I was
+    wrong.  One by one.  That's all there is.
+  :by: Nancy Kress
+  :source: in "Beggars in Spain", p227
+- :text: >
+    To a database person, every nail looks like a thumb.  Or something
+    like that.
+  :by: Jamie Zawinski
+- :text: >
+    There's no sense being exact about something if you don't even know
+    what you're talking about.
+  :by: John von Neumann
+- :text: >
+    Just as playing Dungeons & Dragons doesn't turn a kid into a wizard,
+    pretending to be a homicidal maniac online doesn't make a man a
+    killer.  But determining what it does make him is one of the biggest
+    ethical dilemmas facing modern society.
+  :by: Rita Ferrandino
+  :source: in "Sweaty Scenes from the Life of an AOL Censor"
+- :text: >
+    There is nothing on earth more exquisite than a bonny book, with
+    well-placed columns of rich black writing in beautiful borders, and
+    illuminated pictures cunningly inset.  But nowadays, instead of
+    looking at books, people read them.
+  :by: George Bernard Shaw
+- :text: >
+    Why should we look to the past in order to prepare for the future?
+    Because there is nowhere else to look.
+  :by: James Burke
+- :text: >
+    It is almost impossible to catch a speedy invisible model automobile 
+    even when one is a skillful dentist.
+  :by: E. B. White
+- :text: >
+    Newton was a genius, but not because of the superior computational
+    power of his brain.  Newton's genius was, on the contrary, his
+    ability to simplify, idealize, and streamline the world so that it
+    became, in some measure, tractable to the brains of perfectly 
+    ordinary men.
+  :by: Gerald M. Weinberg
+  :source: in "An Introduction to General Systems Thinking", p12
+- :text: >
+    Every time I write about the impossibility of effectively protecting
+    digital files on a general purpose computer, I get responses from
+    people decrying the death of copyright.  "How will authors and
+    artists get paid for their work?" they ask me.  Truth be told, I
+    don't know.  I feel rather like the physicist who just explained
+    relativity to a group of would-be interstellar travelers, only
+    to be asked: "How do you expect us to get to the stars, then?"  I'm
+    sorry, but I don't know that, either.
+  :by: Bruce Schneier
+  :source: in Crypto-Gram, 15 August 2001
+- :text: >
+    If you keep your mind sufficiently open, people will throw a lot
+    of rubbish into it.
+  :by: William Orton
+- :text: >
+    Wit is cultured insolence.
+  :by: Aristotle
+- :text: >
+    The truth knocks on the door and you say, "Go away, I'm looking
+    for the truth," and so it goes away.  Puzzling.
+  :by: Robert Pirsig
+- :text: >
+    The skill of writing is to create a context in which other people
+    can think.
+  :by: Edwin Schlossberg
+- :text: >
+    If, after reading "Tuesday" one evening before bed, [kids]
+    look out the window and see frogs flying by--well, we should all be
+    so lucky. 
+  :by: David Wiesner
+- :text: >
+    Good engineering is not a matter of creativity or centering or
+    grounding or inspiration or lateral thinking, as useful as those might
+    be, but of decoding the clever, even witty, messages the solution
+    space carves on the corpses of the ideas in which you believed with
+    all your heart, and then building the road to the next message.
+  :by: Fred Hapgood
+  :source: quoted in Brian Marick's blog
+- :text: >
+    First you listen to the users; then you ignore them.
+  :by: Ken Arnold
+- :text: >
+    ... wisdom is in large part the knowledge of how to avoid doing dumb
+    things, and thus grows globally as a function of the published
+    inventory of stupid mistakes.
+  :by: Tim Bray
+- :text: >
+    ... the closer you get to the truth, the messier your sentence gets.
+  :by: Paul Graham
+- :text: >
+    The atmosphere of the average workplace is to productivity what flames 
+    painted on the side of a car are to speed.
+  :by: Paul Graham
+- :text: >
+    The really important thing about Ajax is that it's tricked us into
+    adopting a really powerful language when we wouldn't have chosen to do
+    so on our own.
+  :by: Stuart Halloway
+- :text: >
+    It is shocking to find how many people do not believe they can learn,
+    and how many more believe learning to be difficult.
+  :by: Frank Herbert
+  :source: in "Dune", p65
+- :text: >
+    How can one foresee, without first remembering?
+  :by: David Brin
+  :source: in "Infinity's Shore", p356
+- :text: >
+    Facts don't squeal when you stuff 'em where you want 'em to go.
+  :by: John R. Erickson
+  :source: in "The Further Adventures of Hank the Cowdog", p54
+- :text: >
+    It would be well if engineering were less generally thought of, and
+    even defined, as the art of constructing.  In a certain important
+    sense it is rather the art of not constructing: or, to define it
+    rudely, but not inaptly, it is the art of doing well with one dollar,
+    which any bungler can do with two after a fashion.
+  :by: Arthur Mellen Wellington
+  :comment: Wellington was a prominent 19th century designer of railroad bridges
+  :source: in "The Economic Theory of the Location of Railroads", 1877, quoted by Henry Petroski in "Engineers of Dreams", p132.
+- :text: >
+    The hardest part of design ... is keeping features out.
+  :by: Donald Norman
+  :source: in "Inside (sort of) Apple's industrial-design machine", Technology Review, May/June 2007
+  :source_link: http://www.technologyreview.com/Biztech/18621/
+- :text: >
+    English doesn't *borrow* from other languages. English follows
+    other languages into dark alleys, beats them up for their words and
+    goes through their pockets for loose grammar.
+  :by: Raina Bird
+  :source_link: http://profile.myspace.com/index.cfm?fuseaction=user.viewprofile&friendid=68460456
+- :text: >
+    The more we learn about these Bush people, the more we see the answer 
+    to the question: "What if Frodo had kept the Ring?"
+  :by: Rod Dreher
+  :source_link: http://blog.beliefnet.com/crunchycon/2007/06/happy-fathers-day-from-dod.html
+- :text: >
+    Simplicity does not mean want or poverty. It does not mean the absence 
+    of any decor, or absolute nudity. It only means that the decor should 
+    belong intimately to the design proper, and that anything foreign to 
+    it should be taken away.
+  :by: Paul Jacques Grillo
+  :source_link: http://seancribbs.com/about
+- :text: |
+    Ring the bells that still can ring,
+    Forget your perfect offering.
+    There is a crack in everything--
+    That's how the light gets in.
+  :by: Leonard Cohen
+  :source: in "Anthem"
+  :source_link: http://pragdave.blogs.pragprog.com/pragdave/2008/03/source-code-for.html
+- :text: |
+    Every task involves constraint,
+    Solve the thing without complaint;
+    There are magic links and chains
+    Forged to loose our rigid brains.
+    Structures, structures, though they bind,
+    Strangely liberate the mind.
+  :by: James Falen
+  :source_link: http://tesugen.com/archives/04/10/james-falen-poem
+- :text: >
+    Beauty is more important in computing than anywhere else in technology 
+    because software is so complicated. Beauty is the ultimate defense against 
+    complexity.
+  :by: David Gelernter
+  :source: 'in "Machine Beauty: Elegance and the Heart of Technology"'
