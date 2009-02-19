@@ -20,6 +20,16 @@ helpers do
   end
 end
 
+template :quote_div do
+  %q{
+%div
+  %p
+    = quote[:text]
+    %a{:href => "/quote/#{quote[:id]}"} #
+  %p.attribution== &mdash;#{quote[:by]}
+  }
+end
+
 get '/' do
   # @quote = qlib.random(Date.today.jd)
   @quote = qlib.random
