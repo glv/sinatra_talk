@@ -1,0 +1,55 @@
+
+
+# requires and get '/' (with load in get)
+# index.haml                                // today's and then random
+# move load to configure
+# add qlib helper
+# get '/quote/:id'                          // 1, 100
+# Layout                                    // 75
+# CSS                                       // 22
+# get '/search/:key/:query'
+# search.haml                               // by/shaw, by/stein, text/wise, text/wis, text/simpl
+# case-sensitivity in searches              // text/simpl text/tv
+# helper or partial to generate the quote HTML wherever needed (as internal template) // text/scream
+# JSON output
+# Maybe better handling of multiline quotes // text/constraint
+# End with                                  // by/vol
+
+# Other things to mention:
+# post
+# filters
+# halting and passing
+# more complicated route processing
+# environments
+# error handling
+# Rack
+# for more, see Castronaut
+
+# Quotes to feature:
+#   1 absurdum, by Mike Jones                  // :id
+#  22 still more complicated, by Poul Anderson // CSS
+#  24 screaming passengers, by Sverre Slotte   // search/text/scream
+#  28 ironist, Donald Fagen                    // search/text/tv
+#  43 DestroyCity, Nathaniel Borenstein        // search/by/stein
+#  51 witty saying, Voltaire                   // by/vol
+#  70 mustaches, Anita Wise                    // text/wis
+#  75 feminists, Douglas Hofstadter            // layout
+#  93 doubt everything, Alfred Korzybski
+#  95 web browser, Neal Stephenson
+# 117 perfectionists, Donald Fagen
+# 134 bonny book, Shaw                         // search/by/shaw
+
+# Multiple searches
+# by Donald Fagen
+# 'stein' will turn up DestroyCity, along with others
+# try searching for text=wise; no results.  Then try wis, for wisdom.  Also gets 70 and 100.  Win!
+# text simpl (this one illustrates case-sensitivity)
+# by Poul Anderson
+# by Shaw
+
+# Good multilines
+# Ring the bell, Leonard Cohen
+# Constraints, James Falen
+
+# Good ids:
+# 100, crappy old oses                        // :id
