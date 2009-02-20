@@ -1,10 +1,6 @@
 require 'yaml'
 
 class Quotes
-  def self.load(fn)
-    self.new(fn)
-  end
-  
   def initialize(fn=nil)
     if fn
       load(fn)

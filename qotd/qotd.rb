@@ -4,10 +4,10 @@ QOTD_ROOT = File.dirname(__FILE__)
 lib_dir = File.join(QOTD_ROOT, 'lib')
 $: << lib_dir
 
-%w{rubygems quotes sinatra builder date json}.each{|l| require l}
+%w{rubygems quotes sinatra date json}.each{|l| require l}
 
 configure do
-  set :qlib, Quotes.load(File.join(QOTD_ROOT, 'quotes.yml'))
+  set :qlib, Quotes.new(File.join(QOTD_ROOT, 'quotes.yml'))
 end
 
 helpers do
