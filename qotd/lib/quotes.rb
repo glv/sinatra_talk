@@ -14,7 +14,7 @@ class Quotes
   def load(fn)
     puts "Loading quotes file '#{fn}'"
     @qlist = YAML.load(IO.read(fn))
-    @qlist.each_with_index{|qhash, i| qhash[:id] = i}
+    @qlist.each_with_index{|qhash, i| qhash[:id] = i; qhash[:text].chomp!}
   end
   
   def [](id)
